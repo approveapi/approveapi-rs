@@ -1,0 +1,16 @@
+[package]
+authors = ["ApproveAPI <hello@approveapi.com>"]
+description = "ApproveAPI rust client."
+homepage = "https://approveapi.com"
+license = "MIT OR Apache-2.0"
+name = "approveapi"
+version = "1.0.0"
+
+[dependencies]
+approveapi_openapi = "0.1.2"
+futures = "0.1.25"
+hyper = "0.12.24"
+hyper-tls = "0.3.1"
+lazy_static = "1.2.0"
+serde_json = "1.0.38"
+tokio = "0.1.15"
