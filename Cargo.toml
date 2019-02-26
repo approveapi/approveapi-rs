@@ -4,7 +4,7 @@ description = "ApproveAPI rust client."
 homepage = "https://approveapi.com"
 license = "MIT OR Apache-2.0"
 name = "approveapi"
-version = "1.0.1"
+version = "1.0.2"
 
 [dependencies]
 approveapi_openapi = "^0.1"
