@@ -2,7 +2,7 @@
 [![approveapi-rs on crates.io](https://img.shields.io/crates/v/approveapi.svg)](https://crates.io/crates/approveapi)
 [![approveapi-rs on docs.rs](https://docs.rs/approveapi/badge.svg)](https://docs.rs/approveapi)
 
-Rust API bindings for the ApproveAPI HTTP API.
+Rust API bindings for the [ApproveAPI HTTP API](https://approveapi.com).
 
 Features (almost complete):
 - [x] Send Prompt
