@@ -4,7 +4,9 @@
 
 Rust API bindings for the [ApproveAPI HTTP API](https://approveapi.com).
 
-Features (almost complete):
+*ApproveAPI is a simple API to request a user's real-time approval on anything via email, sms + mobile push.*
+
+## Features
 - [x] Send Prompt
   - [x] web redirect actions (i.e. magic links)
   - [x] custom approve/reject buttons
